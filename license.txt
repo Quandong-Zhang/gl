@@ -1,0 +1,8 @@
+Model Information:
+* title:	Gardening lamp
+* source:	https://sketchfab.com/3d-models/gardening-lamp-07534f5dc9d048188dea0bd02444fd3c
+* author:	Polaris_ele (https://sketchfab.com/Polaris_ele)
+
+Model License:
+* license type:	see viewerUrl (https://sketchfab.com/3d-models/gardening-lamp-07534f5dc9d048188dea0bd02444fd3c)
+* requirements:	see https://sketchfab.com/3d-models/gardening-lamp-07534f5dc9d048188dea0bd02444fd3c
